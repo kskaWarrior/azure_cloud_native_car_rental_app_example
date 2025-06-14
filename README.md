@@ -1,1 +1,1 @@
-Cloud-based project solution for car rental management, from back-end to hosting, using Azure Container Apps, Azure Container Registry (ACR), Azure Functions, Azure Logic Apps, Azure Cosmos DB, and Azure MySQL.
+Cloud-based project solution for car rental management, from back-end to hosting, using Azure Cloud technologies: Container Apps, Container Registry (ACR), Functions, Logic Apps, Cosmos DB, and MySQL.
